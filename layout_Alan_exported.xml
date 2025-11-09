@@ -419,6 +419,9 @@
   <action name="v_transform_retract">
    <rebind input="js2_ "/>
   </action>
+  <action name="v_vtol_toggle">
+   <rebind input="js1_button25"/>
+  </action>
   <action name="v_yaw">
    <rebind input="js3_x"/>
   </action>
